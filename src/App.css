@@ -1,0 +1,33 @@
+.App{
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #FFFFFF;
+  overflow: auto;
+}
+
+.Navbar{
+  background-color: #96a6c5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+button{
+    
+  font-family: 'Montserrat';
+  font-weight: 50px;
+  background-color: transparent;
+  color: black;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  height: 40px;
+  border-width: 0px 0px 0px 0px;
+}
+
+button:hover{
+  color: white;
+  background-color: #B80404;
+}
